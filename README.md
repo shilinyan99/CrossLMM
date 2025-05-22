@@ -46,7 +46,7 @@
 </div>
 
 ## 🔥 News
-* [2025-05-20]🔥🔥🔥 We release the [paper]()
+* [2025-05-23]🔥🔥🔥 We release the [paper]()
 
 
 ## 🧠 Introduction
