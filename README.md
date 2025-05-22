@@ -2,7 +2,7 @@
 <br>
 <h3>CrossLMM: Decoupling Long Video Sequences from LMMs via <br> Dual Cross-Attention Mechanisms</h3>
 
-[Shilin Yan](https://scholar.google.com/citations?user=2VhjOykAAAAJ&hl=zh-CN&oi=ao)<sup>1†</sup>, [Jiaming Han](https://scholar.google.com/citations?user=vgcxKEcAAAAJ&hl=en&oi=ao)<sup>2</sup>, Joey Tsai<sup>3</sup>, [Hongwei Xue](https://scholar.google.com/citations?user=k5CJa5YAAAAJ&hl=en&oi=ao)<sup></sup>, [Rongyao Fang](https://scholar.google.com/citations?user=FtH3CW4AAAAJ&hl=en&oi=ao)<sup>2</sup>, <br> [Lingyi Hong](https://scholar.google.com/citations?user=wHh_m_IAAAAJ&hl=en&oi=ao)<sup>1</sup>, [Ziyu Guo](https://scholar.google.com/citations?user=a6ZGNTEAAAAJ&hl=en&oi=ao)<sup>4</sup>, [Ray Zhang](https://scholar.google.com/citations?user=YlL3xN4AAAAJ&hl=en&oi=ao)<sup>2‡</sup>
+[Shilin Yan](https://scholar.google.com/citations?user=2VhjOykAAAAJ&hl=zh-CN&oi=ao)<sup>1†</sup>, [Jiaming Han](https://scholar.google.com/citations?user=vgcxKEcAAAAJ&hl=en&oi=ao)<sup>2</sup>, Joey Tsai<sup>3</sup>, [Hongwei Xue](https://scholar.google.com/citations?user=k5CJa5YAAAAJ&hl=en&oi=ao)<sup></sup>, [Rongyao Fang](https://scholar.google.com/citations?user=FtH3CW4AAAAJ&hl=en&oi=ao)<sup>2</sup>, <br> [Lingyi Hong](https://scholar.google.com/citations?user=wHh_m_IAAAAJ&hl=en&oi=ao)<sup>1</sup>, [Ziyu Guo](https://scholar.google.com/citations?user=a6ZGNTEAAAAJ&hl=en&oi=ao)<sup>4</sup>, [Ray Zhang]()<sup>2‡</sup>
 
 
 <sup>1</sup>Fudan <sup>2</sup>CUHK MMLab <sup>3</sup>Tsinghua <sup>4</sup>CUHK MiuLar Lab 
