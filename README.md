@@ -22,13 +22,12 @@
   <a href='https://github.com/shilinyan99/CrossLMM'>
     <img src='https://img.shields.io/badge/Project-Page-pink?style=flat&logo=Google%20chrome&logoColor=pink'>
   </a>
-<!--   <a href=''>
-    <img src='https://img.shields.io/badge/Arxiv-2406.19435-A42C25?style=flat&logo=arXiv&logoColor=A42C25'>
-  </a> -->
+  <a href=''>
+    <img src='https://img.shields.io/badge/Arxiv-2505.17020-A42C25?style=flat&logo=arXiv&logoColor=A42C25'>
+  </a>
   <a href=''>
     <img src='https://img.shields.io/badge/Paper-PDF-yellow?style=flat&logo=arXiv&logoColor=yellow'>
   </a>
-<!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=shilinyan99/AIDE" alt="visitors"> -->
 </p>
 </div>
 
@@ -46,7 +45,7 @@
 </div>
 
 ## 🔥 News
-* [2025-05-23]🔥🔥🔥 We release the [paper]()
+* [2025-05-23]🔥🔥🔥 We release the [paper](https://arxiv.org/pdf/2505.17020)
 
 
 ## 🧠 Introduction
