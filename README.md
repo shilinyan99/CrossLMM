@@ -22,10 +22,10 @@
   <a href='https://github.com/shilinyan99/CrossLMM'>
     <img src='https://img.shields.io/badge/Project-Page-pink?style=flat&logo=Google%20chrome&logoColor=pink'>
   </a>
-  <a href=''>
+  <a href='https://arxiv.org/abs/2505.17020'>
     <img src='https://img.shields.io/badge/Arxiv-2505.17020-A42C25?style=flat&logo=arXiv&logoColor=A42C25'>
   </a>
-  <a href=''>
+  <a href='https://arxiv.org/pdf/2505.17020'>
     <img src='https://img.shields.io/badge/Paper-PDF-yellow?style=flat&logo=arXiv&logoColor=yellow'>
   </a>
 </p>
@@ -37,7 +37,7 @@
 </div>
 <hr>
 <div align="center" style="line-height: 1.2;">
-  <a href="" target="_blank"><b>Paper</b></a> •
+  <a href="https://arxiv.org/pdf/2505.17020" target="_blank"><b>Paper</b></a> •
   <a href="#-introduction">Introduction</a> •
   <a href="#-model">Model</a> •
 <!--   <a href="#results">Results</a> • -->
