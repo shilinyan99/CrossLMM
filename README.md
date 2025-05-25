@@ -93,7 +93,15 @@ In addition, we introduce a text-to-visual cross-attention mechanism, for which 
 ## 🥳 Acknowledgements
 We would like to thank [LLAVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT/tree/main), upon which our repo is built.
 
-
+## 📄 Cite
+```
+@article{yan2025crosslmm,
+  title={CrossLMM: Decoupling Long Video Sequences from LMMs via Dual Cross-Attention Mechanisms},
+  author={Yan, Shilin and Han, Jiaming and Tsai, Joey and Xue, Hongwei and Fang, Rongyao and Hong, Lingyi and Guo, Ziyu and Zhang, Ray},
+  journal={arXiv preprint arXiv:2505.17020},
+  year={2025}
+}
+```
 
 ## 📧 Concat
 If you have any question about this project, please feel free to contact tattoo.ysl@gmail.com.
